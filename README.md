@@ -6,3 +6,4 @@ Visualized various sorting algorithms, including Bubble Sort, Selection Sort and
 Implemented user controls to generate random arrays and select algorithms.
 
 Created step-by-step animations for an engaging learning experience in understanding sorting algorithms.
+"# Sorting-Visualizer" 
